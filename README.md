@@ -13,7 +13,7 @@ A small Java application that models a fitness equipment rental system (XFit). I
 - [Usage Examples](#usage-examples)
 - [Project Structure](#project-structure)
 - [Where To Get Help](#where-to-get-help)
-- [Maintainers and Contributions](#maintainers-and-contributions)
+- [Maintainers and Developers](#maintainers-and-developers)
 
 ## What This Project Does
 
@@ -69,11 +69,11 @@ The application uses simple arrays with fixed sizes (clients: 10, equipment: 50)
 .
 ├── README.md
 ├── src/
-│   ├── Aluguel.java          # CLI entry point and menu
-│   ├── CadastroCliente.java  # Client registry and operations
-│   ├── CadastroEquipamento.java # Equipment registry and operations
-│   ├── Cliente.java          # Client model
-│   └── Equipamento.java      # Equipment model
+│   ├── Aluguel.java                # CLI entry point and menu
+│   ├── CadastroCliente.java        # Client registry and operations
+│   ├── CadastroEquipamento.java    # Equipment registry and operations
+│   ├── Cliente.java                # Client model
+│   └── Equipamento.java            # Equipment model
 ```
 
 ## Where To Get Help
@@ -82,7 +82,13 @@ The application uses simple arrays with fixed sizes (clients: 10, equipment: 50)
 - For client-related logic see [src/CadastroCliente.java](src/CadastroCliente.java).
 - For equipment-related logic see [src/CadastroEquipamento.java](src/CadastroEquipamento.java).
 
-## Maintainers and Contributions
+## Maintainers and Developers
+
+Developers:
+
+- [@kydoa](https://github.com/kydoa)
+- [@Joaopiece](https://github.com/Joaopiece)
+- [@Dajosonh](https://github.com/Dajosonh) 
 
 Maintainer:
 
